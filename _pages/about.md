@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a master's student at the [School of Computer Science](http://cs.scnu.edu.cn/), [South China Normal University](https://www.scnu.edu.cn/), Guangzhou, China. My supervisor is Assoc. Prof. [Yin Chen (陈寅)](https://www.scholat.com/ychen).
 
-I received my M.Eng. in Software Engineering in 2021 from the [School of Computer Science and Technology](https://scst.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/), Suzhou, China.
+I received my B.Eng. in Software Engineering in 2021 from the [School of Computer Science and Technology](https://scst.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/), Suzhou, China.
 
 My research interest includes [MaxSAT](https://en.wikipedia.org/wiki/Maximum_satisfiability_problem) and its application. 
 
