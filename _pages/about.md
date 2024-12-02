@@ -8,15 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
-
 
 I am currently a master's student at the [School of Computer Science](http://cs.scnu.edu.cn/), [South China Normal University](https://www.scnu.edu.cn/), Guangzhou, China. My supervisor is Assoc. Prof. [Yin Chen (陈寅)](https://www.scholat.com/ychen).
 
