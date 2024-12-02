@@ -42,6 +42,11 @@ My research interest includes [MaxSAT](https://en.wikipedia.org/wiki/Maximum_sat
     [NuWLS-c-IBR](https://maxsat-evaluations.github.io/2024/mse24-solver-src/anytime/NuWLS-c-IBR.zip) won [🥈🥈Anytime Tracks Unweighted Group](https://maxsat-evaluations.github.io/2024/mse24-talk.pdf) and [🥇🥇Anytime Tracks Weighted Group]([https://satcompetition.github.io/2023/downloads/satcomp23slides.pdf](https://maxsat-evaluations.github.io/2024/mse24-talk.pdf))
 
 # 📝 Publications 
+
+- <span style="color: #00008B">CSCWD 2024</span> [RASLite: Enhancing (W) PMS Solvers Through Dynamic Initial Weight Approach](https://ieeexplore.ieee.org/abstract/document/10580189), **Menghua Jiang**, Yin Chen\*.
+- <span style="color: #00008B">KSEM 2023</span> [Heavy Weighting for Potential Important Clauses](https://link.springer.com/chapter/10.1007/978-3-031-40289-0_21), Hanyi Yu, **Menghua Jiang**, Yin Chen\*.
+
+  
 - ``CSCWD 2024`` [RASLite: Enhancing (W) PMS Solvers Through Dynamic Initial Weight Approach](https://ieeexplore.ieee.org/abstract/document/10580189), **Menghua Jiang**, Yin Chen\*.
 - ``KSEM 2023`` [Heavy Weighting for Potential Important Clauses](https://link.springer.com/chapter/10.1007/978-3-031-40289-0_21), Hanyi Yu, **Menghua Jiang**, Yin Chen\*.
 
