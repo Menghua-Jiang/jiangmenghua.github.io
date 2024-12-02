@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-{% include awards.md %}
+
 
 # 📖 Educations
 - *2019.06 - now*, School of Computer Science, South China Normal University, Guangzhou, China. 
