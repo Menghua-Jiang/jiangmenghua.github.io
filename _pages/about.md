@@ -17,15 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a master's student at [the School of Computer Science](http://cs.scnu.edu.cn/), [South China Normal University](https://www.scnu.edu.cn/), Guangzhou, China.
+I am now a master's student at [School of Computer Science](http://cs.scnu.edu.cn/), [South China Normal University](https://www.scnu.edu.cn/), Guangzhou, China.
 
+I received my M.Eng. in Software Engineering in 2021 from [School of Computer Science and Technology](), [Soochow University](https://www.suda.edu.cn/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes [MaxSAT](https://en.wikipedia.org/wiki/Maximum_satisfiability_problem) and its application. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🎉🎉 硕士研究生国家奖学金. 
+- *2024.08*: &nbsp;🎉🎉 国际MaxSAT比赛Anytime赛道两个亚军、两个季军.
+
+  # 📖 Educations
+- *2019.06 - now*, School of Computer Science, South China Normal University, Guangzhou, China. 
+- *2017.09 - 2021.06*, Undergraduate, School of Computer Science and Technology, Soochow University, Suzhou, China.
+
+ # 🎖 Honors and Awards
+- *2024.11* National Scholarship for Master's Students (Top 1%). 
 
 # 📝 Publications 
 
@@ -45,9 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-# 📖 Educations
-- *2019.06 - now*, School of Computer Science, South China Normal University, Guangzhou, China. 
-- *2017.09 - 2021.06*, Undergraduate, School of Computer Science and Technology, Soochow University, Suzhou, China. 
+ <!-- 
   
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -55,3 +61,5 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+-->
