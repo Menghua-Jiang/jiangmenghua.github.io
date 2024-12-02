@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a master's student at [School of Computer Science](http://cs.scnu.edu.cn/), [South China Normal University](https://www.scnu.edu.cn/), Guangzhou, China.
 
-I received my M.Eng. in Software Engineering in 2021 from [School of Computer Science and Technology](), [Soochow University](https://www.suda.edu.cn/).
+I am currently a master's student at the [School of Computer Science](http://cs.scnu.edu.cn/), [South China Normal University](https://www.scnu.edu.cn/), Guangzhou, China. My supervisor is Assoc. Prof. [Yin Chen (陈寅)](https://www.scholat.com/ychen).
+
+I received my M.Eng. in Software Engineering in 2021 from the [School of Computer Science and Technology](https://scst.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/), Suzhou, China.
 
 My research interest includes [MaxSAT](https://en.wikipedia.org/wiki/Maximum_satisfiability_problem) and its application. 
 
@@ -28,38 +29,21 @@ My research interest includes [MaxSAT](https://en.wikipedia.org/wiki/Maximum_sat
 - *2024.11*: &nbsp;🎉🎉 硕士研究生国家奖学金. 
 - *2024.08*: &nbsp;🎉🎉 国际MaxSAT比赛Anytime赛道两个亚军、两个季军.
 
-  # 📖 Educations
-- *2019.06 - now*, School of Computer Science, South China Normal University, Guangzhou, China. 
-- *2017.09 - 2021.06*, Undergraduate, School of Computer Science and Technology, Soochow University, Suzhou, China.
+# 📖 Educations
+- *2022.06 - Now*, Master's student, School of Computer Science, South China Normal University, Guangzhou, China. 
+- *2017.09 - 2021.06*, Bachelor's student, School of Computer Science and Technology, Soochow University, Suzhou, China.
 
- # 🎖 Honors and Awards
-- *2024.11* National Scholarship for Master's Students (Top 1%). 
+# 🎖 Honors and Awards
+- *2024.11* National Scholarship for Master's Students (Top 1%).
+
+## Competitions Awards
+- MaxSAT Evaluations [🏠Homepage]([https://satcompetition.github.io/](https://maxsat-evaluations.github.io/)
+   * 2024: 
+    [NuWLS-c-IBR](https://maxsat-evaluations.github.io/2024/mse24-solver-src/anytime/NuWLS-c-IBR.zip) won [🥈🥈Anytime Tracks Unweighted Group](https://maxsat-evaluations.github.io/2024/mse24-talk.pdf) and [🥇🥇Anytime Tracks Weighted Group]([https://satcompetition.github.io/2023/downloads/satcomp23slides.pdf](https://maxsat-evaluations.github.io/2024/mse24-talk.pdf))
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- ``CSCWD 2024`` [RASLite: Enhancing (W) PMS Solvers Through Dynamic Initial Weight Approach](https://ieeexplore.ieee.org/abstract/document/10580189), **Menghua Jiang**, Yin Chen\*.
+- ``KSEM 2023`` [Heavy Weighting for Potential Important Clauses](https://link.springer.com/chapter/10.1007/978-3-031-40289-0_21), Hanyi Yu, **Menghua Jiang**, Yin Chen\*.
 
 
 
- <!-- 
-  
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
--->
