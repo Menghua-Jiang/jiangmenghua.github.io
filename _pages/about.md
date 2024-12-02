@@ -43,6 +43,18 @@ My research interest includes [MaxSAT](https://en.wikipedia.org/wiki/Maximum_sat
 
 # 📝 Publications 
 
+<div class='paper-box'>
+  <div>
+    <div class="badge">NeurIPS 2019</div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf)  
+    **Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+  </div>
+</div>
+
+
+
 - `CSCWD 2024` [RASLite: Enhancing (W) PMS Solvers Through Dynamic Initial Weight Approach](https://ieeexplore.ieee.org/abstract/document/10580189), **Menghua Jiang**, Yin Chen*.
 - `KSEM 2023` [Heavy Weighting for Potential Important Clauses](https://link.springer.com/chapter/10.1007/978-3-031-40289-0_21), Hanyi Yu, **Menghua Jiang**, Yin Chen*.
 
