@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Menghua Jiang(蒋梦华)'s Homepage"
-description              : "Master's student at the School of Computer Science, South China Normal University. "
+description              : "Master's student at South China Normal University. Focusing on MaxSAT"
 repository               : "jmhmaxsat/jmhmaxsat.github.io"
 google_scholar_stats_use_cdn : true
 
